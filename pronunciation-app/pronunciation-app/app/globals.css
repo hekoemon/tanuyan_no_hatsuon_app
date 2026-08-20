@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  min-height: 100%;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* タブレット・Chromebookでも文字が選択されにくいようにする（誤操作防止） */
+button {
+  user-select: none;
+}
+
+/* 大きいタッチターゲット確保 */
+button,
+a {
+  touch-action: manipulation;
+}
+
+/* キーボード操作時のフォーカスをはっきり見せる（アクセシビリティ） */
+button:focus-visible,
+a:focus-visible {
+  outline: 4px solid #9575cd;
+  outline-offset: 2px;
+}
