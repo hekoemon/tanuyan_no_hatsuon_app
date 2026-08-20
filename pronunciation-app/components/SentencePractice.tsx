@@ -12,6 +12,7 @@ import {
 import { scorePronunciation } from "@/lib/scoring";
 import { addHistoryRecord } from "@/lib/storage";
 import ScoreResult from "./ScoreResult";
+import TanukiMascot from "./TanukiMascot";
 
 interface SentencePracticeProps {
   grade: Grade;
@@ -114,6 +115,9 @@ export default function SentencePractice({ grade, unit }: SentencePracticeProps)
 
   return (
     <div className="px-4 sm:px-8 py-6 max-w-3xl mx-auto flex flex-col gap-6">
+      {/* たぬやん（マスコット）。判定が出るとポーズが変わる */}
+      <TanukiMascot showEnd={result !== null} />
+
       {/* 進捗 */}
       <div className="flex items-center justify-center gap-2">
         {unit.sentences.map((_, idx) => (
