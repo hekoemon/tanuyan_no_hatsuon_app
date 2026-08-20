@@ -1,0 +1,106 @@
+{
+  "5": [
+    {
+      "unitId": "u1",
+      "unitName": "Unit 1  自己しょうかい",
+      "sentences": [
+        { "id": "5-1-1", "text": "Hello. I'm Ken.", "meaning": "こんにちは。ぼくはケンです。" },
+        { "id": "5-1-2", "text": "Nice to meet you.", "meaning": "はじめまして。" },
+        { "id": "5-1-3", "text": "I'm from Japan.", "meaning": "わたしは日本出身です。" },
+        { "id": "5-1-4", "text": "I like soccer.", "meaning": "わたしはサッカーが好きです。" }
+      ]
+    },
+    {
+      "unitId": "u2",
+      "unitName": "Unit 2  誕生日",
+      "sentences": [
+        { "id": "5-2-1", "text": "My birthday is in May.", "meaning": "わたしの誕生日は5月です。" },
+        { "id": "5-2-2", "text": "When is your birthday?", "meaning": "あなたの誕生日はいつですか。" },
+        { "id": "5-2-3", "text": "I want a new bike.", "meaning": "わたしは新しい自転車がほしいです。" },
+        { "id": "5-2-4", "text": "Happy birthday to you.", "meaning": "誕生日おめでとう。" }
+      ]
+    },
+    {
+      "unitId": "u3",
+      "unitName": "Unit 3  好きな教科",
+      "sentences": [
+        { "id": "5-3-1", "text": "What subject do you like?", "meaning": "あなたは何の教科が好きですか。" },
+        { "id": "5-3-2", "text": "I like math and science.", "meaning": "わたしは算数と理科が好きです。" },
+        { "id": "5-3-3", "text": "I study English every day.", "meaning": "わたしは毎日英語を勉強します。" },
+        { "id": "5-3-4", "text": "It's fun to learn new things.", "meaning": "新しいことを学ぶのは楽しいです。" }
+      ]
+    },
+    {
+      "unitId": "u4",
+      "unitName": "Unit 4  一日の生活",
+      "sentences": [
+        { "id": "5-4-1", "text": "I get up at seven.", "meaning": "わたしは7時に起きます。" },
+        { "id": "5-4-2", "text": "I brush my teeth every morning.", "meaning": "わたしは毎朝歯をみがきます。" },
+        { "id": "5-4-3", "text": "I go to bed at nine.", "meaning": "わたしは9時にねます。" },
+        { "id": "5-4-4", "text": "What time do you eat dinner?", "meaning": "あなたは何時に夕食を食べますか。" }
+      ]
+    },
+    {
+      "unitId": "u5",
+      "unitName": "Unit 5  行きたい国",
+      "sentences": [
+        { "id": "5-5-1", "text": "I want to go to Italy.", "meaning": "わたしはイタリアに行きたいです。" },
+        { "id": "5-5-2", "text": "You can see beautiful mountains.", "meaning": "美しい山を見ることができます。" },
+        { "id": "5-5-3", "text": "Let's go to the museum.", "meaning": "博物館に行きましょう。" },
+        { "id": "5-5-4", "text": "That sounds exciting.", "meaning": "それはわくわくしますね。" }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "unitId": "u1",
+      "unitName": "Unit 1  夏休みの思い出",
+      "sentences": [
+        { "id": "6-1-1", "text": "I went to the sea last summer.", "meaning": "わたしはこの前の夏、海に行きました。" },
+        { "id": "6-1-2", "text": "I enjoyed swimming with my family.", "meaning": "わたしは家族と泳いで楽しみました。" },
+        { "id": "6-1-3", "text": "It was a lot of fun.", "meaning": "とても楽しかったです。" },
+        { "id": "6-1-4", "text": "How was your summer vacation?", "meaning": "あなたの夏休みはどうでしたか。" }
+      ]
+    },
+    {
+      "unitId": "u2",
+      "unitName": "Unit 2  中学校生活",
+      "sentences": [
+        { "id": "6-2-1", "text": "I want to join the tennis club.", "meaning": "わたしはテニス部に入りたいです。" },
+        { "id": "6-2-2", "text": "What club do you want to join?", "meaning": "あなたは何部に入りたいですか。" },
+        { "id": "6-2-3", "text": "I'm looking forward to it.", "meaning": "わたしはそれを楽しみにしています。" },
+        { "id": "6-2-4", "text": "Let's do our best together.", "meaning": "いっしょにがんばりましょう。" }
+      ]
+    },
+    {
+      "unitId": "u3",
+      "unitName": "Unit 3  将来の夢",
+      "sentences": [
+        { "id": "6-3-1", "text": "I want to be a doctor.", "meaning": "わたしは医者になりたいです。" },
+        { "id": "6-3-2", "text": "Why do you want to be a doctor?", "meaning": "なぜあなたは医者になりたいのですか。" },
+        { "id": "6-3-3", "text": "I want to help sick people.", "meaning": "わたしは病気の人を助けたいです。" },
+        { "id": "6-3-4", "text": "What is your dream?", "meaning": "あなたの夢は何ですか。" }
+      ]
+    },
+    {
+      "unitId": "u4",
+      "unitName": "Unit 4  日本のしょうかい",
+      "sentences": [
+        { "id": "6-4-1", "text": "We have a famous festival in summer.", "meaning": "夏に有名なお祭りがあります。" },
+        { "id": "6-4-2", "text": "You should try Japanese food.", "meaning": "日本の食べ物を食べてみるとよいですよ。" },
+        { "id": "6-4-3", "text": "Please come to Japan someday.", "meaning": "いつか日本に来てください。" },
+        { "id": "6-4-4", "text": "Thank you for listening.", "meaning": "聞いてくれてありがとう。" }
+      ]
+    },
+    {
+      "unitId": "u5",
+      "unitName": "Unit 5  卒業へ向けて",
+      "sentences": [
+        { "id": "6-5-1", "text": "I have many good memories.", "meaning": "わたしにはたくさんの良い思い出があります。" },
+        { "id": "6-5-2", "text": "Thank you for everything.", "meaning": "すべてのことに感謝します。" },
+        { "id": "6-5-3", "text": "I will never forget you.", "meaning": "わたしはあなたを決して忘れません。" },
+        { "id": "6-5-4", "text": "Good luck in junior high school.", "meaning": "中学校でがんばってください。" }
+      ]
+    }
+  ]
+}
